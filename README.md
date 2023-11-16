@@ -65,4 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# Make sure to create a Database called "blog" in your MySQL or whatever you want to use or change the DB_Name in .env and give it a try
+## Run the project
+
+Make sure to create a Database called "blog" in your MySQL or whatever you want to use or change the DB_Name in .env and give it a try
