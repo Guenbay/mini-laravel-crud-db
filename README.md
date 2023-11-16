@@ -69,6 +69,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Make sure to create a Database called "blog" in your MySQL or whatever you want to use or change the DB_Name in .env and give it a try.
 1. start by building your MySQL (f. e. at XAMPP)
-2. run command by terminal: php artisan serve
+2. run command by terminal: php artisan serve.
+   
 Test and enjoy!
 
