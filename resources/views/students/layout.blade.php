@@ -11,11 +11,15 @@
         !-->
 
 </head>
-<body>
- 
+<body class="bg-success p-2 text-dark bg-opacity-25">
+        {{print_r(URL(''))}}
 
-    <div class="container">           
+    <div class="container">
+        <div >
+            <img src="{{URL('images/logo2.png')}}" class="opacity-50" style="width: 200px; height: 200px"alt="logo">
             @yield('content')
+            <img src="{{URL('images/tempel.jpg')}}" class="img-fluid" alt="tempel">
+        </div>    
     </div>
    
 </body>
